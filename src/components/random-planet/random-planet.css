@@ -1,4 +1,5 @@
 .random-planet {
+  display: flex;
   padding: 1rem;
 }
 
